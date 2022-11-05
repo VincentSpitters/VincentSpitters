@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋🏾, I'm Vincent</h1>
-<h3 align="center">A Frontend developer with a sounddesign background</h3>
+<h3 align="center">A Frontend Developer with a background in Sounddesign</h3>
 
-<h4 align="center">- 👨🏾‍💻 I’m currently: doing a traineeship at **Educom**</h4>
-<h4 align="center">- 💬 Ask me about: **frame traps and unblockable setups**</h4>
+<h4 align="center">- 👨🏾‍💻 I’m currently: doing a traineeship at Educom</h4>
+<h4 align="center">- 💬 Ask me about: frame traps and unblockable setups</h4>
 
 <h3 align="center">Languages:</h3>
 <p align="center"> 
@@ -28,5 +28,3 @@
 <p align="center">
 <a href="https://linkedin.com/in/vincentspitters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincentspitters" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincentspitters&show_icons=true&locale=en" alt="vincentspitters" /></p>
