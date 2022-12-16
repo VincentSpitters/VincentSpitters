@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋🏾, I'm Vincent</h1>
 <h3 align="center">A Frontend Developer with a background in Sounddesign</h3>
 
-<h4 align="center">- 👨🏾‍💻 I’m currently: doing a traineeship at Educom</h4>
 <h4 align="center">- 💬 Ask me about: frame traps and unblockable setups</h4>
 
 <h3 align="center">Languages:</h3>
